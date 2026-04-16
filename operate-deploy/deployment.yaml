@@ -19,5 +19,5 @@ spec:
     spec:
       containers:
       - name: oprnginx
-        image: ec2-52-78-189-195.ap-northeast-2.compute.amazonaws.com/unn-project/web03:latest
+        image: ec2-3-36-87-184.ap-northeast-2.compute.amazonaws.com/unn-project/web03:latest
         imagePullPolicy: Always
